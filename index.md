@@ -14,7 +14,7 @@ Here, you can download the _LNU-Phish_ **dataset**, the **source-code** for our 
 If you use any of such resources, we kindly ask you to cite our paper (a preprint is [here](TBD)) with the following BibTeX entry:
 ```
 @article{apruzzese2022mitigating,
-  title={{{Mitigating Adversarial Gray-box Attacks against Phishing Detectors}}},
+  title={Mitigating Adversarial Gray-box Attacks against Phishing Detectors},
   author={Apruzzese, Giovanni and Subrahmanian, VS},
   journal={IEEE Transactions on Dependable and Secure Computing (TDSC)},
   year={2022},

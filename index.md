@@ -39,7 +39,7 @@ Our dataset, _LNU-Phish_ (short for "[Liechtenstein](https://www.uni.li/en) and 
 
 ### Overview
 
-The data in _LNU-Phish_ spans across a total of 23'364 websites: 7'861 are phishing websites, whereas 15'773 are legitimate websites. 
+The data in _LNU-Phish_ spans across a total of 23'364 websites: 7'861 are phishing websites, whereas 15'773 are legitimate websites. aa
 
 #### Creation
 The _benign_ websites were taken by picking from the Alexa Top 1 Million list (as of March 2019 -- see [here]()). To create a balanced and diverse corpus containing both "well-known" websites as well as "less-known" (but still reputable) websites, we divided such list in three parts: the “top” partition includes websites from rank 1 to 10'000; the “middle” partition includes websites ranked from 10'001 to 100'000; the “bottom” partition includes all websites ranked below 100'001. We extract ∼5'000 websites from each partition. All such operations

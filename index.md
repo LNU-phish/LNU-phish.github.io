@@ -5,11 +5,11 @@ tagline: Data and Code
 description: Download the LNU-Phish dataset and request access to our code.
 ---
 
-Welcome to the website related to the paper "_Mitigating Adversarial Gray-box Attacks against Phishing Detectors_", accepted to IEEE Transactions on Dependable and Secure Computing (2022). 
+Welcome to the website related to the paper "[Mitigating Adversarial Gray-box Attacks against Phishing Detectors](https://ieeexplore.ieee.org/document/9904297)", accepted to IEEE Transactions on Dependable and Secure Computing (2022). 
 
 This website contains all the resources we publicly release to the research community, as an additional contribution of our paper. Specifically, we provide:
 * the **_LNU-Phish_ dataset**, containing over 20k websites (provided with their _URL_, _HTML_, _DNS record_, and _screenshot_) which we created and used for our evaluation; 
-* our custom-built **feature extractor**, which we created to obtain the feature representation of each sample in LNU-Phish (and then used as basis for our analyses);
+* our custom-built **feature extractor**, which we created to obtain the feature representation of each sample in _LNU-Phish_ (and then used as basis for our analyses);
 * our implementation of the **_Protective Operation Chains_** (POC) algorithm, which is proposed and evaluated in our paper. 
 
 If you use any of such resources, we kindly ask you to cite our work with the following BibTeX entry:
@@ -78,7 +78,7 @@ Upon completing all such operations, we created a **feature extractor** based on
 
 We provide our _LNU-Phish_ dataset in 3 diverse formats:
 
-* **Feature-only (1.5MB)**. This version contains _only the features_ generated via our custom feature extractor. It is the "ML-ready" version of our dataset, and is directly downloadable from [this website](resources/LNU-Phish.FEATURES.zip).
+* **Feature-only (1.5MB)**. This version contains _only the features_ generated via our custom feature extractor. It is the "ML-ready" version of our dataset, and is directly downloadable from [this website](resources/LNU-Phish_FEATURES.zip).
 * **No-screenshots (550MB).** This version contains all information for each sample (i.e., the raw URL, HTML and DNS information, as well as the feature representation) aside from the screenshots. It is useful it create new features, or create adversarial perturbations in the [problem space](https://ieeexplore.ieee.org/abstract/document/9152781) (as done, e.g., in [SpacePhish](https://spacephish.github.io/)).
 * **Full (34GB)**. This version contains _everything_, including the screenshot. It is the most complete version of _LNU-Phish_, but also the largest one.
 
@@ -100,7 +100,7 @@ All such resources are included in a private GitHub repository. We will provide 
 
 To obtain access to our resources, you can either:
 * send an **email** to [Giovanni Apruzzese](mailto:giovanni.apruzzese@uni.li) (be sure to put the term "LNU-Phish" in the subject of the email!);
-* contact [Giovanni Apruzzese](www.giovanniapruzzese.com) in **any other mean** (useful if, e.g., your mail is blocked);
+* contact [Giovanni Apruzzese](https://giovanniapruzzese.com) in **any other mean** (useful if, e.g., your mail is blocked);
 * fill out the **form** available at the following link: [Google Form](https://forms.gle/3XgGJtThDAohjbmQ8)
 
 In either way, please **include your affiliation** when requesting access to our resources.

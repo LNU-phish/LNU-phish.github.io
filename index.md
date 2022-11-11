@@ -5,7 +5,7 @@ tagline: Data and Code
 description: Download the LNU-Phish dataset and request access to our code.
 ---
 
-Welcome to the website related to the paper "[Mitigating Adversarial Gray-box Attacks against Phishing Detectors](https://ieeexplore.ieee.org/document/9904297)", accepted to IEEE Transactions on Dependable and Secure Computing (2022). 
+Welcome to the website related to the paper "[Mitigating Adversarial Gray-box Attacks against Phishing Detectors](https://ieeexplore.ieee.org/document/9904297)", accepted to IEEE Transactions on Dependable and Secure Computing (Sept. 2022). 
 
 This website contains all the resources we publicly release to the research community, as an additional contribution of our paper. Specifically, we provide:
 * the **_LNU-Phish_ dataset**, containing over 20k websites (provided with their _URL_, _HTML_, _DNS record_, and _screenshot_) which we created and used for our evaluation; 

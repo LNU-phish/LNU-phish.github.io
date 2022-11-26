@@ -29,7 +29,7 @@ If you use any of such resources, we kindly ask you to cite our work with the fo
 
 ## Paper
 
-Our paper (a preprint is [here]({}/resources/tdsc22_paper.pdf)) tackles the problem of adversarial attacks against Phishing Detectors (PD) relying on Machine Learning (ML).
+Our paper (a preprint is [here](resources/tdsc22_paper.pdf)) tackles the problem of adversarial attacks against Phishing Detectors (PD) relying on Machine Learning (ML).
 At a high-level, we make 3 contributions:
 * We carry out a **large evaluation** of "Gray-Box" adversarial attacks against ML-based PD. 
   * We consider 4 dataset, 13 classifiers, and 10 different families of Gray-Box attack in which we vary the portion of the features used by the PD known by the attacker.
@@ -69,7 +69,7 @@ We follow a standardized procedure to create _LNU-Phish_.
 We developed a **data-collection script** that visited each URL in a given list. If the URL was valid, we then created a new "sample", thereby saving the URL, as well as the entire (raw) HTML _and_ a screenshot of the (rendered) landing webpage (we used [Dryscrape](https://dryscrape.readthedocs.io/en/latest/) for this). Moreover, we also used the URL to retrieve the DNS record of the webpage.
 
 
-The **benign** websites were taken by picking from the Alexa Top 1 Million list (as of March 2019 -- see [here]()). To create a balanced and diverse corpus containing both "well-known" websites as well as "less-known" (but still reputable) websites, we divided such list in three parts: the “top” partition includes websites from rank 1 to 10'000; the “middle” partition includes websites ranked from 10'001 to 100'000; the “bottom” partition includes all websites ranked below 100'001. We extract a ~5000 URLs from each partition, and used them as input to our data-collection script. Ultimately, _LNU-Phish_ contains 5'354, 3'824, and 6'595 samples from the "bottom", "medium", and "top" partitions, respectively. 
+The **benign** websites were taken by picking from the Alexa Top 1 Million list (as of March 2019). To create a balanced and diverse corpus containing both "well-known" websites as well as "less-known" (but still reputable) websites, we divided such list in three parts: the “top” partition includes websites from rank 1 to 10'000; the “middle” partition includes websites ranked from 10'001 to 100'000; the “bottom” partition includes all websites ranked below 100'001. We extract a ~5000 URLs from each partition, and used them as input to our data-collection script. Ultimately, _LNU-Phish_ contains 5'354, 3'824, and 6'595 samples from the "bottom", "medium", and "top" partitions, respectively. 
 
 The **phishing** websites were taken by crawling two well-known repositories of phishing websites: [PhishTank](https://phishtank.org/) and [OpenPhish](https://openphish.com/). Specifically, we devised a crawler that iteratively monitored such repositories for several days between March and April 2019. At the end of each "crawled day", we used the collected URLs as input to our data-collection script. Ultimately, _LNU-Phish_ contains 5'399 websites from PhishTank and 2'462 websites from OpenPhish (all distinct).
 
@@ -101,7 +101,7 @@ All such resources are included in a private GitHub repository. We will provide 
 
 To obtain access to our resources, you can either:
 * send an **email** to [Giovanni Apruzzese](mailto:giovanni.apruzzese@uni.li) (be sure to put the term "LNU-Phish" in the subject of the email!);
-* contact [Giovanni Apruzzese](https://giovanniapruzzese.com) in **any other mean** (useful if, e.g., your mail is blocked);
+* contact [Giovanni Apruzzese](https://giovanniapruzzese.com) in **any other means** (useful if, e.g., your mail is blocked);
 * fill out the **form** available at the following link: [Google Form](https://forms.gle/3XgGJtThDAohjbmQ8)
 
 In either way, please **include your affiliation** when requesting access to our resources.

@@ -7,7 +7,7 @@ If you use any of our resources, we kindly ask you to cite our paper with the fo
   @article{apruzzese2022mitigating,
   author={Apruzzese, Giovanni and Subrahmanian, V. S.},
   journal={IEEE Transactions on Dependable and Secure Computing}, 
-  title={{Mitigating Adversarial Gray-Box Attacks Against Phishing Detectors}}, 
+  title={Mitigating Adversarial Gray-Box Attacks Against Phishing Detectors}, 
   year={2022},
   volume={},
   number={},

@@ -85,7 +85,7 @@ We provide our _LNU-Phish_ dataset in 3(+1) diverse formats:
   * Access: [Link (OneDrive)](https://1drv.ms/u/s!AiRbxLvsK4bMojXskQc3HktxlAX7?e=eezuf7) [[SHA256](resources/LNU-Phish_noScreenshots-SHA256)]
 * **Full (34GB)**. This format contains _everything_, including the screenshot. It is the most complete format of _LNU-Phish_, but also the largest one.
   * Access: (via explicit request -- instructions below) [[SHA256](resources/LNU-Phish_full-SHA256)]
-* **Full-snippet (50MB).** This format contains a subset of 100 samples (60 benign and 40 phishing) taken from the "Full" format of _LNU-Phish_ (this snippet was provided to the referees of TDSC during the peer-review process of our paper). It is meant to allow researchers to understand the data included in the Full versions of _LNU-Phish_.
+* **Full-snippet (50MB).** This format contains a subset of 100 samples (60 benign and 40 phishing) taken from the "Full" format of _LNU-Phish_ (this snippet was provided to the referees of TDSC during the peer-review process of our paper).
   * Access: [Link](resources/LNU-Phish_snippet.zip) [[SHA256](resources/LNU-Phish_snippet-SHA256)]
 
 (all archives are protected with a password: "dsail", without quotes and lowercase)

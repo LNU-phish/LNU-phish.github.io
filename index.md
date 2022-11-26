@@ -14,6 +14,7 @@ This website contains all the resources we publicly release to the research comm
 
 If you use any of such resources, we kindly ask you to cite our work with the following BibTeX entry:
 ```
+  @article{apruzzese2022mitigating,
   author={Apruzzese, Giovanni and Subrahmanian, V. S.},
   journal={IEEE Transactions on Dependable and Secure Computing}, 
   title={{Mitigating Adversarial Gray-Box Attacks Against Phishing Detectors}}, 

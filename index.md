@@ -80,13 +80,13 @@ Upon completing all such operations, we created a **feature extractor** based on
 We provide our _LNU-Phish_ dataset in 3(+1) diverse formats:
 
 * **Feature-only (1.5MB)**. This format contains _only the features_ generated via our custom feature extractor. It is the "ML-ready" format of our dataset.
-  * Access: [Link](resources/LNU-Phish_features.zip) [[SHA256](resources/LNU-Phish_Features-SHA256)]
+  * Access: [Link](resources/LNU-Phish_features1.zip) [[SHA256](resources/LNU-Phish_features-SHA256)]
 * **No-screenshots (550MB).** This format contains all information for each sample (i.e., the raw URL, HTML and DNS information, as well as the feature representation) aside from the screenshots. It is useful to generate new features, or craft adversarial perturbations in the [problem space](https://ieeexplore.ieee.org/abstract/document/9152781) (as done, e.g., in [SpacePhish](https://spacephish.github.io/)).
   * Access: [Link (OneDrive)](https://1drv.ms/u/s!AiRbxLvsK4bMojXskQc3HktxlAX7?e=eezuf7) [[SHA256](resources/LNU-Phish_noScreenshots-SHA256)]
 * **Full (34GB)**. This format contains _everything_, including the screenshot. It is the most complete format of _LNU-Phish_, but also the largest one.
   * Access: via explicit request (see bottom of the page for instructions)
 * **Full-snippet (50MB).** This format contains a subset of 100 samples (60 benign and 40 phishing) taken from the "Full" format of _LNU-Phish_ (this snippet was provided to the referees of TDSC during the peer-review process of our paper). It is meant to allow researchers to understand the data included in the Full versions of _LNU-Phish_.
-  * Access: [Link](resources/LNU-Phish_snippet.zip) [[SHA256](resources/LNU-Phish_snippet-SHA256)]
+  * Access: [Link](resources/LNU-Phish_snippet1.zip) [[SHA256](resources/LNU-Phish_snippet-SHA256)]
 
 (all archives are protected with a password: "dsail", without quotes and lowercase)
 

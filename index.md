@@ -40,10 +40,6 @@ At a high-level, we make 3 contributions:
 
 We publicly release our dataset, our implementation of POC (together with an example of its application), and our feature extractor.
 
-
-#### Abstract
- Although machine learning based algorithms have been extensively used for detecting phishing websites, there has been relatively little work on how adversaries may attack such “phishing detectors” (PDs for short). In this paper, we propose a set of Gray-Box attacks on PDs that an adversary may use which vary depending on the knowledge that he has about the PD. We show that these attacks severely degrade the effectiveness of several existing PDs. We then propose the concept of operation chains that iteratively map an original set of features to a new set of features and develop the Protective Operation Chain (POC for short) algorithm. POC leverages the combination of random feature selection and feature mappings in order to increase the attacker’s uncertainty about the target PD. Using 3 existing publicly available datasets plus a fourth that we have created and will release upon the publication of this paper, we show that POC is more robust to these attacks than past competing work, while preserving predictive performance when no adversarial attacks are present. Moreover, POC is robust to attacks on 13 different classifiers, not just one. These results are shown to be statistically significant at the _p_ < 0.001 level.
-
 ___
 
 

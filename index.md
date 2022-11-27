@@ -96,7 +96,9 @@ ___
 
 Alongside our dataset, we also disclose our source-code to implement _POC_, together with a notebook containing an example of its application to harden a ML-based classifier on our _LNU-Phish_ dataset. We also provide the code of our feature extractor (which still works today), alongside a notebook showcasing its application the "snippet" version of _LNU-Phish_.
 
-All such resources are included in a private GitHub repository. We will provide (read) access to such repository to any interested researcher or enthusiasts.
+All such resources are included in a private GitHub repository. We will provide (read) access to such repository to any interested researcher or enthusiasts. 
+
+(We also provide the supplementary material mentioned in the paper, available [here](/resources/tdsc22_supp.pdf).)
 
 ### Access
 

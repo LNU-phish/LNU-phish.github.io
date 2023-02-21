@@ -103,3 +103,9 @@ To obtain access to our resources, you can either:
 * fill out the **form** available at the following link: [Google Form](https://forms.gle/3XgGJtThDAohjbmQ8)
 
 In any case, please **include your affiliation** when requesting access to our resources.
+
+#### List of institutions that used the dataset
+
+* University of Padua
+* Chulalongkorn University
+* National University of Singapore

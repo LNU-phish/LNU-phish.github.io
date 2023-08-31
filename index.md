@@ -106,6 +106,8 @@ In any case, please **include your affiliation** when requesting access to our r
 
 #### List of institutions that used the dataset
 
-* University of Padua
-* Chulalongkorn University
-* National University of Singapore
+* [University of Padua](https://www.unipd.it/en/){:target="_blank"}, Italy
+* [Chulalongkorn University](https://www.chula.ac.th/en/){:target="_blank"}, Thailand
+* [National University of Singapore](https://nus.edu.sg/){:target="_blank"}
+* [Harbin Institute of Technology](http://en.hit.edu.cn/){:target="_blank"}, China
+* 

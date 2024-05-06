@@ -110,4 +110,4 @@ In any case, please **include your affiliation** when requesting access to our r
 * [Chulalongkorn University](https://www.chula.ac.th/en/){:target="_blank"}, Thailand
 * [National University of Singapore](https://nus.edu.sg/){:target="_blank"}
 * [Harbin Institute of Technology](http://en.hit.edu.cn/){:target="_blank"}, China
-* 
+* [Southeast University](https://cyber.seu.edu.cn/wa_en/2018/1129/c21597a248060/page.psp){:target="_blank"}, China
